@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 New text for task 6
+Try 2 add text for task 6 
